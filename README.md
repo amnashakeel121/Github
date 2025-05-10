@@ -1,2 +1,2 @@
-# Github
+# GitHub
 Assignment 006
