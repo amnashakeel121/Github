@@ -12,7 +12,8 @@ print(quality)
 #Task_no.3 Concatenation
 fname= "Amna"
 lname= " Rehman"
-print( fname + lname)
+full_name= fname+" "+ lname
+print(full_name)
 #Task_on.4 Repetition
 string2="Hi"
 i='Hi\n'
